@@ -1,6 +1,6 @@
 # VerilogPong
 
-![Menu Screenshot](https://github.com/vtneil/VerilogPong/blob/main/screenshots/01_Menu?raw=true)
+![Menu Screenshot](https://github.com/vtneil/VerilogPong/blob/master/screenshots/01_Menu?raw=true)
 
 An FPGA-based Pong game with some twists written in Verilog HDL. This game has two pongs (balls). The paddles can be moved in both X and Y direction. The game will end if either player has scored 21 or more. It also features a "dealbreaker" scoring which the player has to score 2 more balls than another player to win.
 
